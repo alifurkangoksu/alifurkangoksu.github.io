@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ali'nin Blogu
+title: Geri gelmedik yeni geldik
 ---
 
-Merhaba! Bu benim kişisel blogum. Aşağıda yazılarımı bulabilirsin 👇
+ALİ FURKAN GÖKSU'ya göre : 
